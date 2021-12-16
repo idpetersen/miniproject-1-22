@@ -79,6 +79,9 @@ section{
 form{
     margin:50px 0px; padding:0px;
     text-align:center;
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 5px;
 }
 
 footer {
